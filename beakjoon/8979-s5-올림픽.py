@@ -1,6 +1,6 @@
 import sys
 
-input = sys.stdin.readline
+input = sys.stdin.readline # 빠른 input 위한 system 라이브러리사용
 
 N, K = map(int, input().split())
 
