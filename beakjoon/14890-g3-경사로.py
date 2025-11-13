@@ -3,7 +3,7 @@ import sys
 input = sys.stdin.readline
 
 N, L = map(int, input().split())
-board = [list(map(int, input(). split())) for _ in range(N)]
+board = [list(map(int, input().split())) for _ in range(N)]
 
 def check(line):
 
