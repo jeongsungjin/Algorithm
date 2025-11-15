@@ -31,6 +31,3 @@ bfs(N)
 
 print(dist[K])
 print(ways[K])
-
-
-            
